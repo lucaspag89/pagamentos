@@ -20,7 +20,8 @@ Exemplos de registros de empresas e funcionários e manipulação de contas pode
 - Port: 5432
 - Database: payments
 - Username: postgres
-- Password: admin
+- Password: admin 
+- </br>
 As tabelas são criadas por migration quando a aplicação for iniciada.
 
 ## LOGIN
