@@ -34,7 +34,7 @@ As tabelas são criadas por migration quando a aplicação for iniciada.
   "senha": "password"
 }
 ```
-- O token deve ser enviado pelo 
+- O token é do tipo Bearer e deve ser enviado pelo Header da requisição. 
 
 ## EMPRESAS
 - Para o registro de empresas utilize o endpoint "/api/empresas" (POST) com o objeto do exemplo abaixo:
