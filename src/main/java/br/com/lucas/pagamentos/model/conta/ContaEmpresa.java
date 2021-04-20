@@ -1,7 +1,6 @@
 package br.com.lucas.pagamentos.model.conta;
 
 import br.com.lucas.pagamentos.model.empresa.Empresa;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 
 import javax.persistence.*;

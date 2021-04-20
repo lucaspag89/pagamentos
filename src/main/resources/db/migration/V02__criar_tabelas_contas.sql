@@ -11,9 +11,8 @@ CREATE TABLE contaempresa (
 CREATE SEQUENCE contaempresa_id_seq
     START WITH 1
     INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
+    MINVALUE 1
+    NO MAXVALUE;
 
 CREATE TABLE contafuncionario (
     id BIGINT NOT NULL,
@@ -28,6 +27,5 @@ CREATE TABLE contafuncionario (
 CREATE SEQUENCE contafuncionario_id_seq
     START WITH 1
     INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
+    MINVALUE 1
+    NO MAXVALUE;
