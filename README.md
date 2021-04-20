@@ -1,5 +1,6 @@
 # Pagamentos
 Aplicação para gerenciamento do pagamento de funcionários.
+</br>
 
 ### A documentação pode ser encontrada em <http://localhost:8080/swagger-ui.html>
 Exemplos de registros de empresas e funcionários e manipulação de contas podem ser encontrados abaixo.
