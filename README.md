@@ -21,7 +21,7 @@ Exemplos de registros de empresas e funcionários e manipulação de contas pode
 - Database: payments
 - Username: postgres
 - Password: admin 
-</br>
+<p>
 As tabelas são criadas por migration quando a aplicação for iniciada.
 
 ## LOGIN
